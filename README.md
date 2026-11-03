@@ -32,8 +32,13 @@ Four-digit seven-segment clock implementation using a PIC18F4550 microcontroller
 
 [Project repository](https://github.com/MustafaHassanMH7/PIC18F4550-Digital-Clock)
 
-### SBUS to USB HID Interface
-Embedded interface project focused on receiving SBUS data and transferring interpreted inputs to a USB HID interface.
+### STM32 SBUS → USB HID Joystick — ASTRON Pilot Training
+
+**Personally developed project for ASTRON TEAM.** I built an STM32F303RE-based interface so our UAV pilot can practise in **PicaSim using the same Radiolink AT9S Pro transmitter used for the aircraft**. The system receives SBUS data from the R9DS receiver, decodes and maps channel inputs, and sends USB HID joystick reports to Windows.
+
+Documented results include successful firmware compilation, approximately 74–75 SBUS frames/s, Windows joystick recognition, and PicaSim primary flight-control mapping.
+
+[View my project documentation](projects/STM32-SBUS-USB-HID-Joystick/README.md)
 
 ## Technical Areas
 
