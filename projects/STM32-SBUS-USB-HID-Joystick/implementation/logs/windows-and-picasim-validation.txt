@@ -1,0 +1,12 @@
+Windows validation:
+- joy.cpl detects: STM32 SBUS Joystick
+- Status: OK
+- Properties -> Test shows axes and buttons moving.
+
+PicaSim validation:
+- Enable joystick checked.
+- Joystick ID = 0.
+- Joystick 0 mapped to Roll stick.
+- Joystick 1 mapped to Pitch stick.
+- Joystick 2 mapped to Throttle stick.
+- Joystick 3 mapped to Yaw stick.

@@ -1,0 +1,14 @@
+Failsafe validation summary:
+
+Transmitter ON:
+- flags = 0x00
+- channels update normally
+
+Transmitter OFF:
+- flags first becomes 0x04
+- then flags becomes 0x0C
+- CH3 moves to 200 as a safe throttle value
+
+Transmitter ON again:
+- flags returns to 0x00
+- channels recover normally

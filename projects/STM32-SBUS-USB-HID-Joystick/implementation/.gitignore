@@ -1,0 +1,29 @@
+# STM32CubeIDE build outputs
+Debug/
+Release/
+*.elf
+!release/STM32_SBUS_USB_HID_Joystick.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
+
+# Eclipse / CubeIDE local metadata
+.metadata/
+*.launch.bak
+
+# Crash logs
+hs_err_pid*
+replay_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives generated locally
+*.zip
+!firmware/F303RE_Blink_Test_v2_original_export.zip

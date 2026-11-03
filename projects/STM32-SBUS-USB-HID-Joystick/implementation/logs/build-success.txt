@@ -1,0 +1,4 @@
+10:56:48 **** Incremental Build of configuration Debug for project F303RE_Blink_Test_v2 ****
+make -j12 all
+...
+10:56:49 Build Finished. 0 errors, 0 warnings. (took 807ms)

@@ -90,3 +90,8 @@ The project is **my own engineering implementation**, developed for practical us
 This page publishes the purpose, architecture and documented test results. **The original STM32CubeIDE firmware project, executable image, photos and full test logs are not included in this public page yet.** Their absence does not imply that the source files were uploaded or independently rebuilt.
 
 *Project documentation based on the recorded NUCLEO-F303RE / Radiolink AT9S Pro + R9DS implementation and PicaSim verification.*
+
+## Original project package / Kaynak dosyalarÄ±
+
+- [Original STM32CubeIDE firmware, wiring, tests and complete Turkish instructions](implementation/README.md)
+
