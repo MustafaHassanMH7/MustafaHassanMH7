@@ -24,9 +24,6 @@ Our team has performed actual flight tests of the aircraft.
 
 ## Selected Engineering Projects
 
-### STM32 + LoRa Smart Farming Monitoring and Control
-Two-node wireless monitoring and remote-control prototype using STM32F401RCT6 controllers and EBYTE E220 LoRa modules. Developed embedded C firmware with STM32 HAL, UART interrupt-driven reception, I2C OLED display integration, LDR sensing, command acknowledgments, and communication tests.
-
 ### PIC18F4550 Digital Clock
 Four-digit seven-segment clock implementation using a PIC18F4550 microcontroller, C with mikroC PRO for PIC, and Proteus circuit simulation. Includes digital I/O and software-based timing.
 
@@ -43,7 +40,7 @@ Documented results include successful firmware compilation, approximately 74–7
 ## Technical Areas
 
 **Embedded programming:** C, microcontrollers, STM32 HAL, PIC microcontrollers  
-**Interfaces and communications:** UART, I2C, LoRa, SBUS, USB HID  
+**Interfaces and communications:** UART, I2C, SBUS, USB HID  
 **Electronics and integration:** Sensors, avionics wiring, power distribution, hardware integration, troubleshooting  
 **Engineering tools:** Proteus, MATLAB, Simulink, technical documentation
 
